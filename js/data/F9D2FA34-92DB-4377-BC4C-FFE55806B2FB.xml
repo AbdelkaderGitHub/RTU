@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.2:1", "", "Coredb", "EARoot/EA2/EA2/EA46.htm", "175.png", "52", "0", "", "Logical diagram0","{437432D8-C92D-4d24-9CEE-76D45AA7E087}");
+tocTab[tocTab.length] = new Array("0.2.2:2", "", "«block» Coredb", "EARoot/EA2/EA2/EA49.htm", "5.png", "E433", "0", "", "Class0","{3545B23A-7E1A-4719-9F8A-8E9D87CFBD32}");
+tocTab[tocTab.length] = new Array("0.2.2:3", "", "ISaGRAF", "EARoot/EA2/EA2/EA50.htm", "5.png", "E438", "0", "", "Class0","{26F5473F-C8C2-4c38-8907-A3D812FEAE3D}");
+tocTab[tocTab.length] = new Array("0.2.2:4", "", "Local Acquisition device", "EARoot/EA2/EA2/EA51.htm", "5.png", "E437", "0", "", "Class0","{45CEA602-F23B-434d-9069-9E8851896D87}");
+tocTab[tocTab.length] = new Array("0.2.2:5", "", "Synchronization", "EARoot/EA2/EA2/EA52.htm", "5.png", "E439", "0", "", "Class0","{9C18C1BF-EB0F-46b6-8702-9A1BFECF39A5}");
+tocTab[tocTab.length] = new Array("0.2.2:6", "", "«web page» WEb Server", "EARoot/EA2/EA2/EA53.htm", "5.png", "E436", "0", "", "Class0","{81DFECD0-B6FE-48e4-B493-9CD232F84DCE}");
