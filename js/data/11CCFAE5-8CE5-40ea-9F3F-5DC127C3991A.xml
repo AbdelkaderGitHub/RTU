@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.2:1", "", "BaseLine Software Platform", "EARoot/EA2/EA19.htm", "175.png", "49", "0", "", "Logical diagram0","{00669573-B7A0-46b1-AF38-20470B9F9689}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "«block» Communication", "EARoot/EA2/EA22.htm", "5.png", "E243", "0", "", "Class0","{CDCC7127-AA86-4e2b-9F39-553D0EB38EAB}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "«block» Device Configuration Files", "EARoot/EA2/EA25.htm", "5.png", "E234", "0", "", "Class0","{62C18347-1978-46dd-B5A1-DFDAFAA77A28}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "«constraintBlock» DNP", "EARoot/EA2/EA26.htm", "5.png", "E237", "0", "", "Class0","{63A774DA-F1B9-494c-8A1F-202F87BE6313}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "«constraintBlock» IEC 10X", "EARoot/EA2/EA27.htm", "5.png", "E238", "0", "", "Class0","{9B380FCC-DCF1-4ce0-9C28-40ED6656E76D}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "«constraintBlock» Local Acqusition", "EARoot/EA2/EA28.htm", "5.png", "E240", "0", "", "Class0","{F1E6FACB-E2F5-4c46-9812-3C8CC5D9E1F3}");
+tocTab[tocTab.length] = new Array("0.2:7", "", "«constraintBlock» Modbus", "EARoot/EA2/EA29.htm", "5.png", "E239", "0", "", "Class0","{2D5E87FF-F5B0-488e-898A-EF3A25E8B02E}");
+tocTab[tocTab.length] = new Array("0.2:8", "", "«constraintBlock» Other Devices", "EARoot/EA2/EA30.htm", "5.png", "E241", "0", "", "Class0","{3B181771-2AEA-4be1-BD13-7DCEE2662F70}");
+tocTab[tocTab.length] = new Array("0.2:9", "", "«block» Real Time DB", "EARoot/EA2/EA31.htm", "5.png", "E235", "0", "", "Class0","{113050D7-DFF0-4acf-A7AC-22E7FD4EF876}");
+tocTab[tocTab.length] = new Array("0.2:10", "", "«web page» Web Server", "EARoot/EA2/EA32.htm", "5.png", "E242", "0", "", "Class0","{AEA0115F-FAAE-4e7a-AF12-4E78A413F2E9}");
+tocTab[tocTab.length] = new Array("0.2.1", "1", "Components Req.", "EARoot/EA2/EA1/EA33.htm", "4.png", "", "", "{661B3AA8-F821-4ed5-969B-45D71AE25304}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2", "1", "Coredb", "EARoot/EA2/EA2/EA48.htm", "4.png", "", "", "{F9D2FA34-92DB-4377-BC4C-FFE55806B2FB}", "Package");

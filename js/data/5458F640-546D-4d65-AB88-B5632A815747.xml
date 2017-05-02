@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.1", "1", "Identification and authentication control (IAC)", "EARoot/EA1/EA1/EA8.htm", "4.png", "", "", "{3E7144F1-86AD-4fd0-B54C-4B1E5916ABC1}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2", "1", "Use control (UC)", "EARoot/EA1/EA2/EA15.htm", "4.png", "", "", "{B5E035F0-029B-4414-B9AB-87B174CE032B}", "Package");

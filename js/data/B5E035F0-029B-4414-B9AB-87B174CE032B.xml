@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.1.2:1", "", "Audit storage capacity", "EARoot/EA1/EA2/EA16.htm", "19.png", "E465", "0", "", "Requirement0","{36052DCF-E487-4d17-AD29-ED44BDA326E5}");
+tocTab[tocTab.length] = new Array("0.1.2:2", "", "Auditable events", "EARoot/EA1/EA2/EA17.htm", "19.png", "E463", "0", "", "Requirement0","{63B5930A-D89D-40ef-8626-C5260E56377D}");
+tocTab[tocTab.length] = new Array("0.1.2:3", "", "Response to audit processing failures", "EARoot/EA1/EA2/EA18.htm", "19.png", "E464", "0", "", "Requirement0","{AC430ACA-38A9-4465-B7B6-46DC97CDB58B}");
